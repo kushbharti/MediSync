@@ -1,4 +1,4 @@
-# MediSync - Cross-Hospital Interoperability System
+# MediSync - Cross-Hospital Interoperability System  Shivram
 
 ![MediSync Logo](https://via.placeholder.com/200x80/667eea/ffffff?text=MediSync)
 
